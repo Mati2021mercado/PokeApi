@@ -1,0 +1,15 @@
+{
+  "files": {
+    "main.css": "/Mati2021mercado/MiPortafolio/static/css/main.073c9b0a.css",
+    "main.js": "/Mati2021mercado/MiPortafolio/static/js/main.6703ccca.js",
+    "static/js/787.cf0e5004.chunk.js": "/Mati2021mercado/MiPortafolio/static/js/787.cf0e5004.chunk.js",
+    "index.html": "/Mati2021mercado/MiPortafolio/index.html",
+    "main.073c9b0a.css.map": "/Mati2021mercado/MiPortafolio/static/css/main.073c9b0a.css.map",
+    "main.6703ccca.js.map": "/Mati2021mercado/MiPortafolio/static/js/main.6703ccca.js.map",
+    "787.cf0e5004.chunk.js.map": "/Mati2021mercado/MiPortafolio/static/js/787.cf0e5004.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.073c9b0a.css",
+    "static/js/main.6703ccca.js"
+  ]
+}
